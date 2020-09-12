@@ -6,7 +6,7 @@ Type as --> R&D Engineer & Software Engineer.
 const about_me = {
   username:  "stupidArnob",
   nickname:  "Arnob",
-  website:   "http://stupidarnob.com",
+  website:   "https://stupidarnob.com",
   github:    "https://github.com/stupidArnob",
   email:     "arnobxtreme@gmail.com",
 }
