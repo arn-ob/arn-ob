@@ -1,6 +1,6 @@
 ### Me, _ArN0b--
 
-Me --> R&D Engineer & Software Engineer.  
+Type as --> R&D Engineer & Software Engineer.  
 
 ```javascript
 const about_me = {
