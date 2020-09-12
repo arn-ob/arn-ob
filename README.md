@@ -1,6 +1,6 @@
 ### Me, _ArN0b--
 
-I'm a R&D Learner & Software Engineer.  
+Me --> R&D Engineer & Software Engineer.  
 
 ```javascript
 const about_me = {
