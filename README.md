@@ -1,7 +1,7 @@
 ### Me, _ArN0b--
 
 <p align="center">
-  <img src ="https://miro.medium.com/max/1400/1*U47ewuGNCdMRuef6PXbzIw.png">
+  <img width="300" height="300" src ="https://miro.medium.com/max/1400/1*U47ewuGNCdMRuef6PXbzIw.png">
 </p>
 
 
