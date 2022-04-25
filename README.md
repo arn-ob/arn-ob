@@ -1,5 +1,10 @@
 ### Me, _ArN0b--
 
+<p align="center">
+  <img src ="https://miro.medium.com/max/1400/1*U47ewuGNCdMRuef6PXbzIw.png">
+</p>
+
+
 Type as --> R&D Engineer & Software Engineer.  
 
 <p align="center">
